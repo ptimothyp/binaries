@@ -1,0 +1,81 @@
+{
+  "name": "angular-quickstart",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/common": {
+      "version": "2.4.2",
+      "from": "@angular/common@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/common/-/@angular/common-2.4.2.tgz"
+    },
+    "@angular/compiler": {
+      "version": "2.4.2",
+      "from": "@angular/compiler@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/compiler/-/@angular/compiler-2.4.2.tgz"
+    },
+    "@angular/core": {
+      "version": "2.4.2",
+      "from": "@angular/core@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/core/-/@angular/core-2.4.2.tgz"
+    },
+    "@angular/forms": {
+      "version": "2.4.2",
+      "from": "@angular/forms@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/forms/-/@angular/forms-2.4.2.tgz"
+    },
+    "@angular/http": {
+      "version": "2.4.2",
+      "from": "@angular/http@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/http/-/@angular/http-2.4.2.tgz"
+    },
+    "@angular/platform-browser": {
+      "version": "2.4.2",
+      "from": "@angular/platform-browser@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/platform-browser/-/@angular/platform-browser-2.4.2.tgz"
+    },
+    "@angular/platform-browser-dynamic": {
+      "version": "2.4.2",
+      "from": "@angular/platform-browser-dynamic@>=2.4.0 <2.5.0",
+      "resolved": "http://localhost:4873/@angular/platform-browser-dynamic/-/@angular/platform-browser-dynamic-2.4.2.tgz"
+    },
+    "@angular/router": {
+      "version": "3.4.2",
+      "from": "@angular/router@>=3.4.0 <3.5.0",
+      "resolved": "http://localhost:4873/@angular/router/-/@angular/router-3.4.2.tgz"
+    },
+    "angular-in-memory-web-api": {
+      "version": "0.2.4",
+      "from": "angular-in-memory-web-api@>=0.2.4 <0.3.0",
+      "resolved": "http://localhost:4873/angular-in-memory-web-api/-/angular-in-memory-web-api-0.2.4.tgz"
+    },
+    "core-js": {
+      "version": "2.4.1",
+      "from": "core-js@>=2.4.1 <3.0.0",
+      "resolved": "http://localhost:4873/core-js/-/core-js-2.4.1.tgz"
+    },
+    "rxjs": {
+      "version": "5.0.1",
+      "from": "rxjs@5.0.1",
+      "resolved": "http://localhost:4873/rxjs/-/rxjs-5.0.1.tgz"
+    },
+    "symbol-observable": {
+      "version": "1.0.4",
+      "from": "symbol-observable@>=1.0.1 <2.0.0",
+      "resolved": "http://localhost:4873/symbol-observable/-/symbol-observable-1.0.4.tgz"
+    },
+    "systemjs": {
+      "version": "0.19.40",
+      "from": "systemjs@0.19.40",
+      "resolved": "http://localhost:4873/systemjs/-/systemjs-0.19.40.tgz"
+    },
+    "when": {
+      "version": "3.7.7",
+      "from": "when@>=3.7.5 <4.0.0",
+      "resolved": "http://localhost:4873/when/-/when-3.7.7.tgz"
+    },
+    "zone.js": {
+      "version": "0.7.4",
+      "from": "zone.js@>=0.7.4 <0.8.0",
+      "resolved": "http://localhost:4873/zone.js/-/zone.js-0.7.4.tgz"
+    }
+  }
+}
